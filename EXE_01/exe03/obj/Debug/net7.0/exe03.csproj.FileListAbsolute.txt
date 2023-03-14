@@ -1,0 +1,15 @@
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.csproj.AssemblyReference.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.AssemblyInfoInputs.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.AssemblyInfo.cs
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.csproj.CoreCompileInputs.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\bin\Debug\net7.0\exe03.exe
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\bin\Debug\net7.0\exe03.deps.json
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\bin\Debug\net7.0\exe03.runtimeconfig.json
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\bin\Debug\net7.0\exe03.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\bin\Debug\net7.0\exe03.pdb
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\refint\exe03.dll
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.pdb
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\exe03.genruntimeconfig.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\exe03\obj\Debug\net7.0\ref\exe03.dll

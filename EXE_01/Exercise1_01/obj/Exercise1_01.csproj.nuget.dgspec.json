@@ -10,18 +10,16 @@
         "projectUniqueName": "C:\\PROGRAMACAO_I\\UNOESC\\EXE_01\\Exercise1_01\\Exercise1_01.csproj",
         "projectName": "Exercise1_01",
         "projectPath": "C:\\PROGRAMACAO_I\\UNOESC\\EXE_01\\Exercise1_01\\Exercise1_01.csproj",
-        "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
         "outputPath": "C:\\PROGRAMACAO_I\\UNOESC\\EXE_01\\Exercise1_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
