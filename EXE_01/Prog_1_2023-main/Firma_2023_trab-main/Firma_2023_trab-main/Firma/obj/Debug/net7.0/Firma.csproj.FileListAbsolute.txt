@@ -1,0 +1,5 @@
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Prog_1_2023-main\Empress_2023_trab-main\Empress_2023_trab-main\Empress\obj\Debug\net7.0\Firma.csproj.AssemblyReference.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Prog_1_2023-main\Empress_2023_trab-main\Empress_2023_trab-main\Empress\obj\Debug\net7.0\Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Prog_1_2023-main\Empress_2023_trab-main\Empress_2023_trab-main\Empress\obj\Debug\net7.0\Firma.AssemblyInfoInputs.cache
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Prog_1_2023-main\Empress_2023_trab-main\Empress_2023_trab-main\Empress\obj\Debug\net7.0\Firma.AssemblyInfo.cs
+C:\PROGRAMACAO_I\UNOESC\EXE_01\Prog_1_2023-main\Empress_2023_trab-main\Empress_2023_trab-main\Empress\obj\Debug\net7.0\Firma.csproj.CoreCompileInputs.cache

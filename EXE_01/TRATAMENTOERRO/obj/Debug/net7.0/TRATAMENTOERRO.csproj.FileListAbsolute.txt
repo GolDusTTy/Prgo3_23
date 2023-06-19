@@ -1,0 +1,15 @@
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.csproj.AssemblyReference.cache
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.AssemblyInfoInputs.cache
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.AssemblyInfo.cs
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\TRATAMENTOERRO\bin\Debug\net7.0\TRATAMENTOERRO.exe
+C:\Users\mathe\TRATAMENTOERRO\bin\Debug\net7.0\TRATAMENTOERRO.deps.json
+C:\Users\mathe\TRATAMENTOERRO\bin\Debug\net7.0\TRATAMENTOERRO.runtimeconfig.json
+C:\Users\mathe\TRATAMENTOERRO\bin\Debug\net7.0\TRATAMENTOERRO.dll
+C:\Users\mathe\TRATAMENTOERRO\bin\Debug\net7.0\TRATAMENTOERRO.pdb
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.dll
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\refint\TRATAMENTOERRO.dll
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.pdb
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\TRATAMENTOERRO.genruntimeconfig.cache
+C:\Users\mathe\TRATAMENTOERRO\obj\Debug\net7.0\ref\TRATAMENTOERRO.dll
